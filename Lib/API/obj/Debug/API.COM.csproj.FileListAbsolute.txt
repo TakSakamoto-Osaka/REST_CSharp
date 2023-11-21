@@ -1,0 +1,9 @@
+C:\prog\MyREST_API\Lib\API\bin\Debug\ToolUtilities.Network.dll
+C:\prog\MyREST_API\Lib\API\bin\Debug\ToolUtilities.Network.pdb
+C:\prog\MyREST_API\Lib\API\obj\Debug\API.COM.csproj.AssemblyReference.cache
+C:\prog\MyREST_API\Lib\API\obj\Debug\API.COM.csproj.CoreCompileInputs.cache
+C:\prog\MyREST_API\Lib\API\obj\Debug\API.COM.csproj.CopyComplete
+C:\prog\MyREST_API\Lib\API\bin\Debug\MyAPI.COM.dll
+C:\prog\MyREST_API\Lib\API\bin\Debug\MyAPI.COM.pdb
+C:\prog\MyREST_API\Lib\API\obj\Debug\MyAPI.COM.dll
+C:\prog\MyREST_API\Lib\API\obj\Debug\MyAPI.COM.pdb

@@ -1,0 +1,15 @@
+C:\prog\MyREST_API\MyREST_API\bin\Debug\MyREST_API.exe.config
+C:\prog\MyREST_API\MyREST_API\bin\Debug\MyREST_API.exe
+C:\prog\MyREST_API\MyREST_API\bin\Debug\MyREST_API.pdb
+C:\prog\MyREST_API\MyREST_API\obj\Debug\MyREST_API.csproj.AssemblyReference.cache
+C:\prog\MyREST_API\MyREST_API\obj\Debug\MyREST_API.Properties.Resources.resources
+C:\prog\MyREST_API\MyREST_API\obj\Debug\MyREST_API.csproj.GenerateResource.cache
+C:\prog\MyREST_API\MyREST_API\obj\Debug\MyREST_API.csproj.CoreCompileInputs.cache
+C:\prog\MyREST_API\MyREST_API\obj\Debug\MyREST_API.exe
+C:\prog\MyREST_API\MyREST_API\obj\Debug\MyREST_API.pdb
+C:\prog\MyREST_API\MyREST_API\obj\Debug\MyREST_API.FormMain.resources
+C:\prog\MyREST_API\MyREST_API\bin\Debug\MyAPI.COM.dll
+C:\prog\MyREST_API\MyREST_API\bin\Debug\ToolUtilities.Network.dll
+C:\prog\MyREST_API\MyREST_API\bin\Debug\MyAPI.COM.pdb
+C:\prog\MyREST_API\MyREST_API\bin\Debug\ToolUtilities.Network.pdb
+C:\prog\MyREST_API\MyREST_API\obj\Debug\MyREST_API.csproj.CopyComplete

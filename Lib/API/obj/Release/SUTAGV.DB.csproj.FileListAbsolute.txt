@@ -1,0 +1,8 @@
+C:\prog\HydFact\Library\DB\PlantAux\SUTAGV\bin\Release\SUTAGV.DB.dll
+C:\prog\HydFact\Library\DB\PlantAux\SUTAGV\bin\Release\SUTAGV.DB.pdb
+C:\prog\HydFact\Library\DB\PlantAux\SUTAGV\bin\Release\ToolUtilities.Network.dll
+C:\prog\HydFact\Library\DB\PlantAux\SUTAGV\bin\Release\ToolUtilities.Network.pdb
+C:\prog\HydFact\Library\DB\PlantAux\SUTAGV\obj\Release\SUTAGV.DB.csproj.CoreCompileInputs.cache
+C:\prog\HydFact\Library\DB\PlantAux\SUTAGV\obj\Release\SUTAGV.DB.csproj.CopyComplete
+C:\prog\HydFact\Library\DB\PlantAux\SUTAGV\obj\Release\SUTAGV.DB.dll
+C:\prog\HydFact\Library\DB\PlantAux\SUTAGV\obj\Release\SUTAGV.DB.pdb
